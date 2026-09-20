@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3EQd35gxy"
 #define BLYNK_TEMPLATE_NAME "EV Battery Management System"
-#define BLYNK_AUTH_TOKEN "fNPQ7Y4LK5ZRvg8TFBnXqPRiLPtVIvEe"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
